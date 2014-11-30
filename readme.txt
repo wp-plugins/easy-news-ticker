@@ -17,10 +17,6 @@ Easy news ticker is very simple and tiny plugin that helps you to show your vert
 
 
 
-
-A few notes about the sections above:
-
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
