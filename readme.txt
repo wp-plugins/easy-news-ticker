@@ -25,7 +25,6 @@ A few notes about the sections above:
 
 This section describes how to install the plugin and get it working.
 
-e.g.
 
 1. Upload `easy_news_ticker` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
