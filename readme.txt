@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors:  ifte.hsn2013
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6N6UW62N4G9G8&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
-Tags: news, ticker,post scroller, vertical news ticker,post format
+Tags: news, ticker,post scroller, vertical news ticker,post format, widget, news ticker widget, scrolling post widget
 Requires at least: 3.7
 Tested up to: 4.1
 Stable tag: 1.0
