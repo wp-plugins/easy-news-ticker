@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6N6UW
 Tags: news, ticker,post scroller, vertical news ticker,post format, widget, news ticker widget, scrolling post widget
 Requires at least: 3.7
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
