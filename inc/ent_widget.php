@@ -1,6 +1,5 @@
 <?php
-
-
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 class Ent_Widget extends WP_Widget {
 
 	//widget init

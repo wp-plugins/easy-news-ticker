@@ -1,5 +1,5 @@
 <?php
-
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 add_shortcode('easy_news_ticker', 'easy_news_ticker_function');
 
 function easy_news_ticker_function($atts){

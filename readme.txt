@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6N6UW
 Tags: news, ticker,post scroller, vertical news ticker,post format, widget, news ticker widget, scrolling post widget
 Requires at least: 3.7
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,8 @@ Yes. To use multiple category, type the names of the category in <strong>"Catego
 
 The answer is yes and no! You can show the custom post type via shortcode. But custom post type in widget is not currently supported.
 
-
+== Credits ==
+1. jQuery - Easy Ticker - www.aakashweb.com 
 
 == Screenshots ==
 
@@ -59,4 +60,7 @@ The answer is yes and no! You can show the custom post type via shortcode. But c
 
 = 1.0 =
 * Initial Release
+
+= 1.1 =
+.pot file added for translation
 

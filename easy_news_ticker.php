@@ -27,7 +27,7 @@
     along with this program; if not, write to the Free Software
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 require_once(plugin_dir_path( __FILE__ )."inc/ent_shortcode_init.php");
 require_once(plugin_dir_path( __FILE__ )."inc/ent_widget.php");
@@ -81,6 +81,12 @@ function ent_admin_init() {
     wp_enqueue_script('mce_add_button');
 }
 
+
+
+add_action( 'plugins_loaded', 'ent_load_textdomain' );
+function ent_load_textdomain() {
+  load_plugin_textdomain( 'ent', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' ); 
+}
 
 function ok_easy_news_ticker() {
 	wp_enqueue_script('jquery');
